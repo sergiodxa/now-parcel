@@ -1,0 +1,35 @@
+{
+  "name": "now-parcel",
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sergiodxa/now-parcel.git"
+  },
+  "bugs": {
+    "email": "hello@sergiodxa.com",
+    "url": "https://github.com/sergiodxa/now-parcel/issues"
+  },
+  "homepage": "https://github.com/sergiodxa/now-parcel",
+  "author": "Sergio Xalambrí <hello@sergiodxa.com> (https://sergiodxa.com",
+  "license": "MIT",
+  "keywords": [
+    "now",
+    "bundler",
+    "bundle",
+    "parcel"
+  ],
+  "dependencies": {
+    "parcel-bundler": "^1.10.3"
+  },
+  "peerDependencies": {
+    "@now/build-utils": "^0.4.26"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.9.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-plugin-prettier": "^3.0.0",
+    "prettier": "^1.15.2"
+  }
+}
