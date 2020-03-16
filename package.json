@@ -20,7 +20,7 @@
     "parcel"
   ],
   "dependencies": {
-    "parcel-bundler": "^1.10.3"
+    "parcel-bundler": "^1.12.4"
   },
   "peerDependencies": {
     "@now/build-utils": "^0.4.26"
